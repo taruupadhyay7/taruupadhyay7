@@ -6,9 +6,11 @@ I build practical AI systems focused on RAG pipelines, LLM applications, and pro
 </p>
 
 <p align="center">
-  <a href="mailto:taruupadhyay5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/taruupadhyay90/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://taru-upadhyay-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:taruupadhyay5@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" height="40"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/taruupadhyay90/"><img src="https://img.icons8.com/color/48/linkedin.png" height="40"/></a>
+  &nbsp;&nbsp;
+  <a href="https://taru-upadhyay-portfolio.vercel.app/"><img src="https://img.icons8.com/ios-filled/50/domain.png" height="40"/></a>
 </p>
 
 ---
