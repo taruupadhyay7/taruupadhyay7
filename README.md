@@ -1,4 +1,5 @@
-<h1 align="center">Taru Upadhyay</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7c3aed&height=200&section=header&text=Taru%20Upadhyay&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
 <h3 align="center">AI/ML Engineer • GenAI Developer • RAG & Backend Systems</h3>
 
 <p align="center">
@@ -10,7 +11,7 @@ I build practical AI systems focused on RAG pipelines, LLM applications, and pro
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/taruupadhyay90/"><img src="https://img.icons8.com/color/48/linkedin.png" height="40"/></a>
   &nbsp;&nbsp;
-  <a href="https://taru-upadhyay-portfolio.vercel.app/"><img src="https://img.icons8.com/ios-filled/50/domain.png" height="40"/></a>
+  <a href="https://taru-upadhyay-portfolio.vercel.app/"><img src="https://img.icons8.com/fluency/48/domain.png" height="40"/></a>
 </p>
 
 ---
