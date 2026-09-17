@@ -32,8 +32,8 @@ I build practical AI systems focused on RAG pipelines, LLM applications, and pro
 
 | Project | Description | Stack |
 |---|---|---|
-| 🧠 **[RAG-Application](https://github.com/taruupadhyay7/RAG-Application)** | Fully offline RAG system for PDF Q&A in a secure, air-gapped environment (built during DRDO internship) | LLaMA 2, FAISS, LangChain, Sentence-Transformers |
-| 💬 **[RAG-chatbot](https://github.com/taruupadhyay7/RAG-chatbot)** | Conversational RAG-based chatbot for document querying | Python |
+| 🧠 **[RAG-Application](https://github.com/taruupadhyay7/RAG-Application)** | My major project from my DRDO internship — a fully offline RAG system for PDF Q&A in a secure, air-gapped environment | LLaMA 2, FAISS, Sentence-Transformers, Streamlit |
+| 💬 **[RAG-chatbot](https://github.com/taruupadhyay7/RAG-chatbot)** | RAG-based chatbot for document Q&A (company assignment) | LLaMA 2, Streamlit |
 | 📝 **[Text Summarization App](https://github.com/taruupadhyay7/text_summarization_using-spacy)** | Extractive (spaCy) & abstractive (BART) summarization with PDF upload and keyword extraction | Streamlit, Hugging Face, PyTorch, spaCy |
 | 🌿 **[Plant Disease Detection](https://github.com/taruupadhyay7/plant-disease-detection-system)** | CNN trained on PlantVillage dataset, ~93% accuracy, real-time detection | TensorFlow, OpenCV |
 
